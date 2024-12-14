@@ -1,0 +1,71 @@
+.container{
+    margin-bottom: 100px;
+}
+div img{
+    height: 675px;
+}
+h1{
+    color: #f19d00;
+    margin-bottom: 0;
+    margin-top: 30px;
+}
+.expenses{
+    margin-left: 45%;
+}
+label {
+    width: 9%;
+    margin-left: 22%; 
+    margin-right: 7%;
+    padding: 5px;
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+h6{
+    margin-left: 25%;
+    padding: 10px;
+    color: maroon;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+.calc-button{
+    width: 125px;
+    border-radius: 20px;
+    border: none;
+    background-color: #21a9f8;
+    color: black;
+    font-size: 1.1rem;
+    font-weight: bold;
+    margin-left: 45%;
+    padding: 7px;
+}
+input {
+    border-radius: 3px;
+    border: 1px solid #000000;
+}
+.save-label{
+    width: 8%;
+    margin-left: 5%;
+}
+.saving{
+    width: 110px;
+    margin: 0;
+    padding: 0;
+}
+.modulus{
+    width: 10px;
+    font-weight: bold;
+    font-size: 1.1rem;
+    margin-left: 0px;
+    padding: 0;
+    margin-right: 10px;
+}
+.save-button{
+    width: 125px;
+    border-radius: 20px;
+    border: none;
+    background-color: #21a9f8;
+    color: black;
+    font-size: 1.1rem;
+    font-weight: bold;
+    padding: 7px;
+}
